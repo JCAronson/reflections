@@ -4,3 +4,9 @@ put your stuff later.
 
 The staging area gives you a perfectly safe area to screw around with while you make sure you have only what you want to save in the new commit.
 
+Using the staging area to make sure you can commit only one logical change is a matter of only staging one change at a time, regardless of how many changes you've actually MADE.
+
+Branches seem like they would be very handy for keeping different
+structural builds organized, like if you want to try out different
+ways of approaching the problem then merge them into master if they
+work.
