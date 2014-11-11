@@ -1,0 +1,56 @@
+Viewing the difference between the two files
+allowed me to find a bug despite working in a 
+language I'm not especially familiar with;
+I would not have known that the 1! in the first
+example was a typo at all.  I might eventually 
+have found the 'spacr' error, but it would have 
+taken reading through pretty much the entire file,
+possibly multiple times.
+
+Version control seems like a very powerful tool. 
+In fact, I'm sitting here wishing I'd been using
+it for my fiction writing-- I might not have thirty
+slightly different versions saved under as many 
+slightly different names right now!  In programming
+specifically, it seems as though it would save
+huge amounts of time in debugging, as well as 
+allowing the programmer to change direction without
+fear of losing what work they have done if the new
+approach turns out to be less than ideal.
+
+I don't really like the idea of manual commits, to 
+be honest, because I really am bad at remembering
+to save once I'm in the groove-- I tend to 
+only save when it's necessary to compile, and 
+obviously that does give you versions, but not always
+single logical changes.  The upside is that you don't
+end up with too many versions to sort through or 
+too many save files.  I find this one a bit hard to 
+wrap my head around given that most of the programming
+files I've worked with are not large, cost-wise,
+and my machines tend to have three times the memory
+anyone needs.
+
+I think the matter of individual vs. group commits 
+is a pretty straightforward case of different tools
+being intended for different sorts of project.
+Connected files makes sense for multi-file projects.
+Individual files makes more sense when all files, even
+within the same project, are fundamentally seperate.
+
+You can use git log and git diff pretty much exactly
+the way you would expect to view the history of the
+file and figure out changes.  I mean, this one is
+just self-explanatory.
+
+Now I can make changes fearlessly, because not only
+do I have the old version, git will tell me WHAT changed!
+
+I don't really know what I want to try using Git for yet.
+ I don't really have a current project beyond completing
+this class.  Though if I do get back to work on 
+anything practical to do with Jarvis anytime this century,
+that is going to be absolutely vital. (Note to self:
+Install/configure Git on MegaZord, for the sake of
+everyone's sanity.  Especially Jack's when he finds
+the router in the fridge again.)
