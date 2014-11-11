@@ -1,0 +1,6 @@
+When you initialize the repository, it basically
+does not a damn thing except give you a place to
+put your stuff later.
+
+The staging area gives you a perfectly safe area to screw around with while you make sure you have only what you want to save in the new commit.
+
