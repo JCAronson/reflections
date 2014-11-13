@@ -3,3 +3,11 @@ rather than keep my files purely local, because I worship
 at the alter of 'as many backups, in as many places as
 possible'.  Hence my addiction to flash memory even given
 it's rather terrible reliability/security.
+
+Forcing manual remote pulls is a BEAUTIFUL feature
+because it keeps you from accidentally overwriting a copy
+of code that you want, just because you updated your
+online repository wrong.  It also protects from malicious
+or well-meaning outside sabotage by making sure you have
+your own copy of the code that you can always use to 
+reset the online one if it gets messed up.
