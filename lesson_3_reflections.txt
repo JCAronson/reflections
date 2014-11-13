@@ -33,3 +33,8 @@ given time is a really bad way.  Using other collaboration
 software is a good idea-- google docs, or something
 aimed specifically at your intended purpose, 
 whichever.
+
+Working in a different branch is still useful because
+it keeps you from breaking anything that already works
+and lets people keep improving master in different
+directions without getting each other's way too much.
