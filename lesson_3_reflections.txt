@@ -25,3 +25,11 @@ its own evolution.
 Having a copy of the last known state of the remote 
 stored locally allows you to continue to work on it
 even when you are offline.
+
+There are a lot of really bad ways to collaborate.
+For example, emailing the files back and forth and
+hoping you're looking at the correct version at any
+given time is a really bad way.  Using other collaboration
+software is a good idea-- google docs, or something
+aimed specifically at your intended purpose, 
+whichever.
