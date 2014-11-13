@@ -11,3 +11,13 @@ online repository wrong.  It also protects from malicious
 or well-meaning outside sabotage by making sure you have
 your own copy of the code that you can always use to 
 reset the online one if it gets messed up.
+
+Forks, clones, and branches all have slightly different
+uses.  Branches seem to be pure internal designation; they
+allow for seperation of content by idea or person, as is
+logical in any particular case.  Cloneing seems the least
+flexible to me, being mostly a way of moving files around.
+Forks are a way to kidnap someone else's project, or let
+them kidnap yours, without risking the integrity of the
+original but still allowing that original to continue
+its own evolution.
