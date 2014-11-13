@@ -21,3 +21,7 @@ Forks are a way to kidnap someone else's project, or let
 them kidnap yours, without risking the integrity of the
 original but still allowing that original to continue
 its own evolution.
+
+Having a copy of the last known state of the remote 
+stored locally allows you to continue to work on it
+even when you are offline.
