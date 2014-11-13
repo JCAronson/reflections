@@ -18,3 +18,9 @@ work.
 
 The diagrams don't actually make a difference to me..
 My brain does that for me.  Sorry.
+
+I really really like the automatic merges;
+However, I definitely see the virtue of manual merges
+for when code has changed in multiple ways over
+the course of a branch.  I suppose it's a case of 
+what's right for what problem.
